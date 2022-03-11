@@ -1,0 +1,7 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib=3.2.2
+  - numpy=1.18.5
